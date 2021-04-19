@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on Telegram
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about any technical stuffs
-- 📫 How to reach me: [Twitter](https://twitter.com/pr1nc0d3),
-- [Telegram](https://t.me/PirateMonkeyDLuffy)
+- 📫 How to reach me: [Twitter](https://twitter.com/pr1nc0d3),[Telegram](https://t.me/PirateMonkeyDLuffy)
 - 😄 Pronouns: his
 - ⚡ Fun fact: I am in relationship
 
