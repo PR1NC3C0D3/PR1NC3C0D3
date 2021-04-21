@@ -10,7 +10,7 @@
 - 💬 Ask me about any technical stuffs
 - 📫 How to reach me: [Twitter](https://twitter.com/pr1nc3c0d3),[Telegram](https://t.me/PirateMonkeyDLuffy), [Instagram](https://instagram.com/prince_pirateking)
 - 😄 Pronouns: his/him/he
-- ⚡ Fun fact: I am in relationship
+- ⚡ Fun fact: I am not in relationship 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=PR1NC3C0D3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
