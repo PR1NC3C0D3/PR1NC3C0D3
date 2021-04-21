@@ -1,4 +1,4 @@
-### Hi there https://t.me/PirateMonkeyDLuffy 👋
+### Hi there PR1NC3C0D3👋
 
 
  
@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PR1NC3C0D3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-## My Info (◠‿◕)
+## My Info 
 * Working on:  <a href="https://t.me/MonkeyDLuffyRobot" alt="Luffy Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-LuffyRobot-blue" /> </a>
 * Telegram Username: <a  href="https://t.me/PirateMonkeyDLuffy" alt="One Punch Support"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-@Pirate%20Monkey%20DLuffy-9cf" /> </a>
 
